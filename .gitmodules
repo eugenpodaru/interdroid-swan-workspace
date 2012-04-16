@@ -27,4 +27,4 @@
 	url = git@github.com:eugenpodaru/interdroid-swan
 [submodule "swan-test"]
 	path = swan-test
-	url = git@github.com:interdroid/interdroid-swan-test
+	url = git@github.com:eugenpodaru/interdroid-swan-test
