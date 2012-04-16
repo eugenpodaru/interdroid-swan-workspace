@@ -15,7 +15,7 @@
 	url = git@github.com:interdroid/interdroid-vdb-ui
 [submodule "smartsockets"]
 	path = smartsockets
-	url = git@github.com:interdroid/smartsockets
+	url = git@github.com:eugenpodaru/smartsockets
 [submodule "ibis-ipl"]
 	path = ibis-ipl
 	url = git@github.com:interdroid/ibis-ipl
@@ -24,7 +24,7 @@
 	url = https://github.com/eclipse/jgit.git
 [submodule "swan"]
 	path = swan
-	url = git@github.com:interdroid/interdroid-swan
+	url = git@github.com:eugenpodaru/interdroid-swan
 [submodule "swan-test"]
 	path = swan-test
 	url = git@github.com:interdroid/interdroid-swan-test
